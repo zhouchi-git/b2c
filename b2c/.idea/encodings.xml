@@ -7,10 +7,8 @@
     <file url="file://$PROJECT_DIR$/b2c-auth/b2c-auth-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/b2c-cart/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/b2c-common/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/b2c-common/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/b2c-goods-page/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/b2c-item/b2c-item-interface/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/b2c-item/b2c-item-interface/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/b2c-item/b2c-item-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/b2c-item/b2c-item-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/b2c-order/src/main/java" charset="UTF-8" />
@@ -21,7 +19,6 @@
     <file url="file://$PROJECT_DIR$/b2c-upload/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/b2c-upload/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/b2c-user/b2c-user-interface/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/b2c-user/b2c-user-interface/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/b2c-user/b2c-user-server/src/main/java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
