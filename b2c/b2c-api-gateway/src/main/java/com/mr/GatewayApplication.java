@@ -9,11 +9,15 @@ import org.springframework.web.cors.CorsConfiguration;
 import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
 import org.springframework.web.filter.CorsFilter;
 
+import javax.xml.bind.SchemaOutputResolver;
+
 @SpringBootApplication
 @EnableDiscoveryClient
 @EnableZuulProxy
 public class GatewayApplication {
+
     public static void main(String[] args) {
+        System.out.println("     ");
         SpringApplication.run(GatewayApplication.class, args);
     }
 
